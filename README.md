@@ -2,7 +2,7 @@ Gofs
 ====
 
 ##### Gofs(Go File Server)目录服务器
-![Gofs](example.png)
+![Gofs](usage.gif)
 
 ## Gofs是什么？
 
